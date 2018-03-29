@@ -4,6 +4,8 @@ Fetches the queries from input_parser and stores the multiplication results in "
 
 Instructions-
 
+* `cd multiplier`
+
 1. In the `deps/0` function of `mix.exs`,change the path of `input_parser` dependency according to its location on your machine.
 
 2. run `bash script/multiplying.sh`
