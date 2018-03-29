@@ -13,6 +13,8 @@ z1 z2
 
 INSTRUCTIONS-
 
+* `cd input_parser`
+
 1. For running in normal mode-
 
 run `bash script/normal_parse.sh`
