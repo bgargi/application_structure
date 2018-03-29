@@ -1,2 +1,3 @@
-# application_structure
-Input Parser and Multiplier
+# Application Structure
+
+Typical OTP application structure and OTP Application dependency illustration.
